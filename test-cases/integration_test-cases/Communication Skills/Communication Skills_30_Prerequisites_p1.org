@@ -1,0 +1,18 @@
+* Author: 
+* Date Created: 02 May 2016
+* Environment
+
+* Objective
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/Communication Skills/Communication Skills_01_Usability_smk.org][Communication Skills_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+
+* Expected result
+
+* Review/comments
+
+

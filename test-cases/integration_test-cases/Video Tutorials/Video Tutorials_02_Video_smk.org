@@ -1,0 +1,33 @@
+* Author: Nihanth
+* Date Created: 02 May 2016
+* Environment
+  - OS: Windows 7, Ubuntu-16.04,Centos-6
+  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To watch the Reading skills Video of "Video Tutorials" experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/Video Tutorials/Video Tutorials_01_Usability_smk.org][Video Tutorials_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Reading Skills  link 
+  2. It should re-direct to the Reading Skills  page
+  3. Click on the play button and then click on the pause button
+  4. Click on the play button
+  5. Click on th volume button and increase and decrease the volume levels
+
+* Expected result
+  1. Reading Skills  page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. the video should start playing and when we click on the pause button the video should should get paused and again when we click on the play button the video should start playing
+  4. When we increase the volume levels, the volume should get increased and when we decrease the volume level the volume should get decreased
+
+* Review/comments
+
+

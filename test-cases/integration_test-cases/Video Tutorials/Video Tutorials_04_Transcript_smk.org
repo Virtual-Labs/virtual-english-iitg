@@ -1,0 +1,28 @@
+* Author: Nihanth
+* Date Created: 02 May 2016
+* Environment
+  - OS: Windows 7, Ubuntu-16.04,Centos-6
+  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To view the Transcript of "Video Tutorials" experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/Video Tutorials/Video Tutorials_01_Usability_smk.org][Video Tutorials_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Transcript  link 
+  2. It should re-direct to the Transcript  page
+
+* Expected result
+  1. Transcript  page should be opened
+  2. Content should be present with no distortions and Junk characters
+
+* Review/comments
+
+
