@@ -1,0 +1,26 @@
+
+Testing : Star-Delta Starting => 
+On Introduction Page : 
+         REPORT : TOTAL 0  MIS-SPELLS FOUND.
+On Theory Page : 
+         mis-spelled word 1 : magnetiz
+         mis-spelled word 2 : ing
+         REPORT : TOTAL 2  MIS-SPELLS FOUND.
+On procedure page
+         REPORT : TOTAL 0  MIS-SPELLS FOUND.
+	link with href= https://www.youtube.com/watch?v=bKk9PS8kQTs&feature=related   working properly
+	All links working properly
+On Simulator of Exp  : 
+	simulator for Exp : working
+on quiz page :
+         REPORT : TOTAL 0  MIS-SPELLS FOUND.
+Final Report : 
+Star_Delta_Starting_Starting_02_introduction passed
+Star_Delta_Starting_Starting_03_theory failed
+Star_Delta_Starting_Starting_04_procedure_p1 passed
+Star_Delta_Starting_Starting_05_procedure_p2 passed
+Star_Delta_Starting_Starting_06_simulator passed
+Star_Delta_Starting_Starting_07_quiz_p1 passed
+Star_Delta_Starting_Starting_08_quiz_p2 passed
+Star_Delta_Starting_Starting_09_quiz_p3 passed
+Star_Delta_Starting_Starting_10_quiz_p4 passed

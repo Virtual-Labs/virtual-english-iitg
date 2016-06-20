@@ -1,6 +1,0 @@
-S.no		Test case link
-1. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/System/Virtual%20English%20and%20Communication_01_Usability_smk.org][Virtual English and Communication_01_Usability_smk.org]]
-2. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/System/Virtual%20English%20and%20Communication_02_Functionallity_smk.org][Virtual English and Communication_02_Functionallity_smk.org]]
-3. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/System/Virtual%20English%20and%20Communication_03_About_smk.org][Virtual English and Communication_03_About_smk.org]]
-4. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/System/Virtual%20English%20and%20Communication_04_People_smk.org][Virtual English and Communication_04_People_smk.org]]
-5. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/System/Virtual%20English%20and%20Communication_05_Contact_smk.org][Virtual English and Communication_05_Contact_smk.org]]
