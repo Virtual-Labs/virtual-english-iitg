@@ -1,0 +1,63 @@
+Author: Mansi Bhandari
+
+Date Created: 24 May 2016
+
+
+Enviroment
+
+	OS: Windows 7,Ubuntu-16.04,CentOS-6
+	Browsers: Firefox-42.0,Chrome-49.0,Chromium-52.0,IE-8
+	Bandwidth : 100Mbps
+	Hardware Configuration:8GB RAM ,4GB RAM
+	Processor:i7, i3
+
+
+
+Objective
+
+	To view, perform Finding correct words exercise and check the score
+
+
+
+
+Pre conditions
+
+	Refer to first test case CommonErrorsInEnglish_01_usability_smk.org
+
+
+
+
+Post conditions
+
+	NIL
+
+
+
+Test Steps
+
+	1. Refer to CommonErrorsInEnglish_13_SelfEvaluation_Findingcorrectwords_p1.org
+
+	2. Select the incorrect answers and click on grade the quiz button
+
+	3. The selected answers should be validated with the backend database
+
+
+ 
+	
+
+
+Expected Result
+
+	1. Refer to CommonErrorsInEnglish_13_SelfEvaluation_Findingcorrectwords_p1.org
+
+	2. Result should be displayed for selected answers.
+
+	3. The page should display the number of correct answer to be 0 and the percentage for the answers
+	
+
+
+Review Commments
+
+	
+
+

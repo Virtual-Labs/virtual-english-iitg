@@ -1,28 +1,57 @@
-* Author: Nihanth
-* Date Created: 02 May 2016
-* Environment
-  - OS: Windows 7, Ubuntu-16.04,Centos-6
-  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
-  - Bandwidth : 100Mbps
-  - Hardware Configuration:8GBRAM , 
-  - Processor:i5
+Author: Mansi Bhandari
 
-* Objective
-  - To view the Theory of the "Vocabulary" experiment
+Date Created: 27 May 2016
 
-* Pre conditions
-  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/Vocabulary/Vocabulary_01_Usability_smk.org][Vocabulary_01_Usability_smk.org]]
 
-* Post conditions
-  - Nil
-* Test Steps
-  1. Click on the Theory link 
-  2. It should re-direct to the Theory page
+Enviroment
 
-* Expected result
-  1. Theory page should be opened
-  2. Content should be present with no distortions and Junk characters
+	OS: Windows 7,Ubuntu-16.04,CentOS-6
+	Browsers: Firefox-42.0,Chrome-49.0,Chromium-52.0,IE-8
+	Bandwidth : 100Mbps
+	Hardware Configuration:8GB RAM ,4GB RAM
+	Processor:i7, i3
 
-* Review/comments
+
+
+Objective
+
+	To view the theory of Vocabulary
+
+
+
+
+
+Pre conditions
+
+	Refer to first test case Vocabulary_01_Usability_smk.org
+
+
+
+Post conditions
+
+	NIL
+
+
+
+Test Steps
+
+	1. Click on the Theory link
+
+	2. Verify whether the content present in the page is having any distortions and junk characters
+
+
+
+
+Expected Result
+
+	1. Theory page should be opened
+
+	2. Content should be present with no distortions and Junk characters
+	
+
+
+Review Commments
+
+	
 
 

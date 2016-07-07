@@ -1,0 +1,60 @@
+Author: Mansi Bhandari
+
+Date Created: 27 May 2016
+
+
+Enviroment
+
+	OS: Windows 7,Ubuntu-16.04,CentOS-6
+	Browsers: Firefox-42.0,Chrome-49.0,Chromium-52.0,IE-8
+	Bandwidth : 100Mbps
+	Hardware Configuration:8GB RAM ,4GB RAM
+	Processor:i7, i3
+
+
+
+Objective
+
+	To view and take the Synonyms quiz for Self Evaluation of Vocabulary 
+
+
+
+
+Pre conditions
+
+	Refer to first test case Vocabulary_01_Usability_smk.org
+
+
+
+
+Post conditions
+
+	NIL
+
+
+
+Test Steps
+
+	1. Refer to Vocabulary_15_SelfEvaluation_Synonyms_p1.org
+
+	2. Select the appropriate Synonym
+
+	3. The answer should be validated with the backend database
+	
+ 
+	
+
+
+Expected Result
+
+	1. Refer to Vocabulary_15_SelfEvaluation_Synonyms_p1.org
+
+	2. If the Synonym is correct, a smiley should appear and a dialog box should be displayed with the status of the sentence,score and the question completed so far and click on the OK button to make it disappear.
+	
+
+
+Review Commments
+
+	
+
+

@@ -1,0 +1,57 @@
+Author: Mansi Bhandari
+
+Date Created: 26 May 2016
+
+
+Enviroment
+
+	OS: Windows 7,Ubuntu-16.04,CentOS-6
+	Browsers: Firefox-42.0,Chrome-49.0,Chromium-52.0,IE-8
+	Bandwidth : 100Mbps
+	Hardware Configuration:8GB RAM ,4GB RAM
+	Processor:i7, i3
+
+
+
+Objective
+
+	To view the collection of Lab Staff and Contributors
+
+
+
+
+Pre conditions
+
+	Refer to first test case LabStaffandContributors_01_Usability_smk.org
+
+
+
+Post conditions
+
+	NIL
+
+
+
+Test Steps
+
+	 
+
+	1. Verify whether the content present in the page is having any distortions and junk characters
+
+
+
+
+Expected Result
+ 
+
+	1. Content should be present with no distortions and Junk characters
+
+	2. Collection page should be opened
+	
+
+
+Review Commments
+
+	
+
+

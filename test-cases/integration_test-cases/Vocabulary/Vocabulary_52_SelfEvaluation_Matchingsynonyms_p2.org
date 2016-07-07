@@ -1,0 +1,63 @@
+Author: Mansi Bhandari
+
+Date Created: 27 May 2016
+
+
+Enviroment
+
+	OS: Windows 7,Ubuntu-16.04,CentOS-6
+	Browsers: Firefox-42.0,Chrome-49.0,Chromium-52.0,IE-8
+	Bandwidth : 100Mbps
+	Hardware Configuration:8GB RAM ,4GB RAM
+	Processor:i7, i3
+
+
+
+Objective
+
+	To view, perform  Matching synonyms exercise and check the score
+
+
+
+
+Pre conditions
+
+	Refer to first test case Vocabulary_01_usability_smk.org
+
+
+
+
+Post conditions
+
+	NIL
+
+
+
+Test Steps
+
+	1. Refer to Vocabulary_55_SelfEvaluation_Matchingsynonyms_p1.org
+
+	2. Match the word with their correct synonyms and click on the check button
+
+	3.The match should be validated with the backend database
+
+
+ 
+	
+
+
+Expected Result
+
+	1. Refer to Vocabulary_55_SelfEvaluation_Matchingsynonyms_p1.org
+
+
+	2. If the match is correct a dialog box should be displayed with the status of answers and score,click on the OK button to make it disappear.
+	
+	
+
+
+Review Commments
+
+	
+
+

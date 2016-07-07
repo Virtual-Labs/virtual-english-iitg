@@ -1,0 +1,63 @@
+Author: Mansi Bhandari
+
+Date Created: 19 May 2016
+
+
+Enviroment
+
+	OS: Windows 7,Ubuntu-16.04,CentOS-6
+	Browsers: Firefox-42.0,Chrome-49.0,Chromium-52.0,IE-8
+	Bandwidth : 100Mbps
+	Hardware Configuration:8GB RAM ,4GB RAM
+	Processor:i7, i3
+
+
+
+Objective
+
+	To view, perform Selecting the proper word/phrase exercise and check the score
+
+
+
+
+Pre conditions
+
+	Refer to first test case BusinessCommunication_01_usability_smk.org
+
+
+
+
+Post conditions
+
+	NIL
+
+
+
+Test Steps
+
+	1. Refer to BusinessCommunication_38_SelfEvaluation_Selectingtheproperwordorphrase_p1.org
+
+	2. Select the proper word/phrase for the question and click on grade the quiz button
+
+	3. The answer should be validated with the backend database
+
+
+ 
+	
+
+
+Expected Result
+
+	1. Refer to BusinessCommunication_38_SelfEvaluation_Selectingtheproperwordorphrase_p1.org
+
+
+	2. If the answer is correct, the total number of questions attempted and the percentage for the answers should be displayed.
+	
+	
+
+
+Review Commments
+
+	
+
+

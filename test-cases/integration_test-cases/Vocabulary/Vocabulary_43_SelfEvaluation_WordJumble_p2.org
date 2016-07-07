@@ -1,0 +1,59 @@
+Author: Mansi Bhandari
+
+Date Created: 27 May 2016
+
+
+Enviroment
+
+	OS: Windows 7,Ubuntu-16.04,CentOS-6
+	Browsers: Firefox-42.0,Chrome-49.0,Chromium-52.0,IE-8
+	Bandwidth : 100Mbps
+	Hardware Configuration:8GB RAM ,4GB RAM
+	Processor:i7, i3
+
+
+
+Objective
+
+	To view, take the Word Jumble quiz for Self Evaluation and taking hint for the answer after entering some correct letters of word 
+
+
+
+
+Pre conditions
+
+	Refer to first test case Vocabulary_01_usability_smk.org
+
+
+
+
+Post conditions
+
+	NIL
+
+
+
+Test Steps
+
+	1. Refer to Vocabulary_41_SelfEvaluation_WordJumble_p1.org
+
+	2. Enter some of the correct letters of the word and Click on the Hint button
+
+
+ 
+	
+
+
+Expected Result
+
+	1. Refer to Vocabulary_41_SelfEvaluation_WordJumble_p1.org
+
+	2. If the letters are correct a dialog box should be displayed with the hint for next letter in the word and click on the OK button to make it disappear.
+	
+
+
+Review Commments
+
+	
+
+
