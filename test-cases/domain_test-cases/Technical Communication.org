@@ -1,0 +1,36 @@
+* Author: SANJAY JYOTI DUTTA
+* Date Created: 21 July 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To perform the Experiment of Technical Communication
+
+* Pre conditions
+  - 1. Open the url vlabs.ac.in and vlabs home page is displayed 
+ 
+    2. Click on IIT-Guwahati and a list of labs is displayed on the screen 
+  
+    3. Select Other Laboratories (Design & Humanities), a home page is displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
+  
+    4. Selecte "Virtual English and Communication" experiment.
+    5. Selecte "Technical Communication"
+* Post conditions
+   - Nill.
+* Test Steps
+  1. Clicked on the Self Evaluation link
+  2. Click on "Exercise" link of " Verb Equivalent ", "Concise Equivalent ", "Terms Matching", "Finding the Adjective", " Matching synonyms " and "Finding correct meanings ".
+  
+* Expected result
+  1. Write the verb equivalent for the following page is opened.
+  2. 	Write the concise equivalent of the following words page is opened.
+  3. Match the phrases with their equivalent concise equivalents page is opened.
+  4. Write the equivalent adjectives for the following nouns page is opened.
+  5.Match the words with their synonyms page is opened.
+  6. Match the terms with their correct meanings page is opened.
+
+* Review comments

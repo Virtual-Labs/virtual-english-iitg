@@ -1,0 +1,35 @@
+* Author: SANJAY JYOTI DUTTA
+* Date Created: 21 July 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To perform the Experiment of Listening Skills
+
+* Pre conditions
+  - 1. Open the url vlabs.ac.in and vlabs home page is displayed 
+ 
+    2. Click on IIT-Guwahati and a list of labs is displayed on the screen 
+  
+    3. Select Other Laboratories (Design & Humanities), a home page is displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
+  
+    4. Selecte "Virtual English and Communication" experiment.
+    5. Selecte "Listening Skills"
+* Post conditions
+   - Nill.
+* Test Steps
+  1. Clicked on the Self Evaluation link
+  2. Click on "Listen " link of "Passage 1", " Passage 2", "Passage 3", "Passage 4", "Passage 5" and "Passage 6".
+  3. Click on "Solve Questions" link of "Passage 1", " Passage 2", "Passage 3", "Passage 4", "Passage 5" and "Passage 6".
+  
+* Expected result for "Listen" link
+  1. For all "Listen" links, all pages conatining mp3 are opened.
+  
+  * Expected result for "Listen" link 
+  1. For all " Solve Questions" links, all pages containing LISTENING SKILLS Quiz are opened.
+
+* Review comments

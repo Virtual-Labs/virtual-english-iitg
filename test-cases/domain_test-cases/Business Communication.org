@@ -1,0 +1,35 @@
+* Author: SANJAY JYOTI DUTTA
+* Date Created: 21 July 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To perform the Experiment of Business Communication experiment
+
+* Pre conditions
+  - 1. Open the url vlabs.ac.in and vlabs home page is displayed 
+ 
+    2. Click on IIT-Guwahati and a list of labs is displayed on the screen 
+  
+    3. Select Other Laboratories (Design & Humanities), a home page is displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
+  
+    4. Selecte "Virtual English and Communication" experiment.
+    5. Selecte "Business Communication"
+* Post conditions
+   - Nill.
+* Test Steps
+  1. Clicked on the Self Evaluation link
+  2. Click on "Exercise" link of "Spelling check", " Matching synonyms", "Matching negotiation strategies", " Finding similar words from a passage", "Choosing the correct definition" and "Selecting the proper word / phrase".
+  
+* Expected result
+  1. SPELLING CHECK page is opened.
+  2. Match the words with their synonyms page is opened.
+  4. Match the following negotiation strategies with their corresponding business situations page is opened.
+  3. Finding the correct definition page is opened.
+  4. 	Selecting the proper word/phrase page is opened.
+
+* Review comments

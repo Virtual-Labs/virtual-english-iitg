@@ -1,0 +1,35 @@
+* Author: SANJAY JYOTI DUTTA
+* Date Created: 21 July 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To perform the Experiment of Common Errors in English
+
+* Pre conditions
+  - 1. Open the url vlabs.ac.in and vlabs home page is displayed 
+ 
+    2. Click on IIT-Guwahati and a list of labs is displayed on the screen 
+  
+    3. Select Other Laboratories (Design & Humanities), a home page is displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
+  
+    4. Selecte "Virtual English and Communication" experiment.
+    5. Selecte "Common Errors in English"
+* Post conditions
+   - Nill.
+* Test Steps
+  1. Clicked on the Self Evaluation link
+  2. Click on "Exercise" link of "Correct form of sentences ", "Finding correct words", "Rewriting correct sentences ", " Rewriting omitted prepositions", "Confused words" and "Choosing the appropriate word".
+  
+* Expected result
+  1.Correct form of sentences page is opened.
+  2. 	Correct Words page is opened.
+  4. Rewrite the following sentences in the correct form Quiz page is opened.
+  3. Rewrite the following sentences by adding the omitted preposition in the correct place Quiz page is opened.
+  4. 	Confused words page is opened.
+
+* Review comments
