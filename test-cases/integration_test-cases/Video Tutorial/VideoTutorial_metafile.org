@@ -1,0 +1,8 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/VideoTutorial/VideoTutorial_01_Usability_smk.org][VideoTutorial_01_Usability_smk.org]]
+2. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/VideoTutorial/VideoTutorial_02_Collection_smk.org][VideoTutorial_02_Collection_smk.org]]
+3. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/VideoTutorial/VideoTutorial_03_Collection_p1.org][VideoTutorial_03_Collection_p1.org]]
+4. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/VideoTutorial/VideoTutorial_04_Collection_File1_p1.org][VideoTutorial_04_Collection_File1_p1.org]]
+5. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/VideoTutorial/VideoTutorial_05_Collection_File1_p1.org][VideoTutorial_05_Collection_File1_p1.org]]
+6. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/VideoTutorial/VideoTutorial_06_Collection_File2_p1.org][VideoTutorial_06_Collection_File2_p1.org]]
+7. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/VideoTutorial/VideoTutorial_07_Collection_File2_p1.org][VideoTutorial_07_Collection_File2_p1.org]]
