@@ -1,0 +1,59 @@
+Author: Mansi Bhandari
+
+Date Created: 26 May 2016
+
+
+Enviroment
+
+	OS: Windows 7,Ubuntu-16.04,CentOS-6
+	Browsers: Firefox-42.0,Chrome-49.0,Chromium-52.0,IE-8
+	Bandwidth : 100Mbps
+	Hardware Configuration:8GB RAM ,4GB RAM
+	Processor:i7, i3
+
+
+
+Objective
+
+	To view, take the Finding the Adjective quiz for Self Evaluation and click on show answer button
+
+
+
+
+Pre conditions
+
+	Refer to first test case TechnicalCommunication_01_usability_smk.org
+
+
+
+
+Post conditions
+
+	NIL
+
+
+
+Test Steps
+
+	1. Refer to TechnicalCommunication_35_SelfEvaluation_FindingtheAdjective_p1.org
+
+	2. Click on the Show Answer without entering any guess
+
+
+ 
+	
+
+
+Expected Result
+
+	1. Refer to TechnicalCommunication_35_SelfEvaluation_FindingtheAdjective_p1.org
+
+	2. The Finding the Adjective page should be update and a dialog box should be displayed with the correct Adjective and click on the OK button to make it disappear.
+	
+
+
+Review Commments
+
+	
+
+

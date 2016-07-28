@@ -1,3 +1,0 @@
-S.no		Test case link
-1. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/LabStaffandContributors/LabStaffandContributors_01_Usability_smk.org][LabStaffandContributors_01_Usability_smk.org]]
-2. 	[[https://github.com/Virtual-Labs/virtual-english-iitg/blob/master/test-cases/integration_test-cases/LabStaffandContributors/LabStaffandContributors_02_collection_smk.org][LabStaffandContributors_02_collection_smk.org]]
