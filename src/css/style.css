@@ -550,4 +550,14 @@ text-decoration:none;
 	text-align:left;
 }
 
+#reference {
+    display: none;
+}
 
+ #procedure {
+  display: none;
+  }
+
+  #self-eval {
+    display: none;
+  }
