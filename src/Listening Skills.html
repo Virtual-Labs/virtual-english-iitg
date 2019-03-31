@@ -9,6 +9,38 @@
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/image_slide.js"></script>
+  <script type="text/javascript">
+
+  	change0 = () => {
+  		$('#theory').css("display", "block");
+  		$('#reference').css("display", "none");
+  		$('#procedure').css("display", "none");
+  		$('#self-eval').css("display", "none");
+  	}
+
+  	change1 = () => {
+  		$('#theory').css("display", "none");
+  		$('#reference').css("display", "block");
+  		$('#procedure').css("display", "none");
+  		$('#self-eval').css("display", "none");
+  	}
+
+  	change2 = () => {
+  		$('#theory').css("display", "none");
+  		$('#reference').css("display", "none");
+  		$('#procedure').css("display", "block");
+  		$('#self-eval').css("display", "none");
+  	}
+
+  	change3 = () => {
+  		$('#theory').css("display", "none");
+  		$('#reference').css("display", "none");
+  		$('#procedure').css("display", "none");
+  		$('#self-eval').css("display", "block");
+  	}
+
+
+  </script>
 </head>
 
 <body>
@@ -34,6 +66,7 @@
     </div><!--close menubar-->	
 	<br />
 	<br />
+	  
 	  <div id= "content1">
         <div class="content_item">
 		  <h1> &nbsp;&nbsp;Listening Skills</h1> 
@@ -42,32 +75,72 @@
 		  <div class="heading">
 		   <ul> 
 			<li class="head1">
-		  	<a href="Listening Skills.html"><img src="images/content_1.png" />
+		  	<a onclick="change0()"><img src="images/content_1.png" />
 			<h6>Theory</h6>
 			</a></li>
 			<li class="head2">
-			<a href="Listening Skills(Procedure).html">
+			<a onclick="change1()">
 			<img src="images/content_2.png" />
 			<h6>Procedure</h6>
 			</a></li>
 			<li class="head3">
-			<a href="Listening Skills(Self Evaluation).html"><img src="images/content_3.png" />
+			<a onclick="change2()"><img src="images/content_3.png" />
 			<h6>Self Evaluation</h6>
 			</li>
 			</a><li class="head3">
-			<a href="Listening Skills(Reference).html">
+			<a onclick="change3()">
 			<img src="images/content_6.png" />
 			<h6>Reference</h6>
 			</a></li>
 		  </ul>
 		 </div> 
-		  <div class="desc">
-		  <p>Active listening is a form of listening that emphasises on</p><p>what a person says and involves an understanding of the</p><p>context of the message as well as the emotions underlying it.</p>
- 
-    
+	
+		  <div class="desc" id="theory">
+			  <p>Active listening is a form of listening that emphasises on</p><p>what a person says and involves an understanding of the</p><p>context of the message as well as the emotions underlying it.</p> 
 		  </div>
-	      <div align="center">
-    </div>
+
+		  <div class="desc" id="self-eval">
+		  <p>Listen to the following passage and answer the questions that follow:</p>
+        <table class="table2">
+        
+        <tr><td>1. Passage 1:</td><td><span><a href="Experiments/listen1.mp3">Listen</a></span></td><td><span><a href="Experiments/listening1.html"> Solve Questions  </a></span></td></tr>
+    
+        <tr><td>2. Passage 2:  </td><td><span><a href="Experiments/listen2.mp3">Listen</a></span></td><td><span><a href="Experiments/listening2.html">  Solve Questions  </a></span></td></tr>
+       
+ 
+
+       <tr><td>3. Passage 3: </td><td><span><a href="Experiments/listen3.mp3">Listen</a></span></td><td><span><a href="Experiments/listening3.html"> Solve Questions  </a></span></td></tr>
+    
+        <tr><td>4.      Passage 4:</td><td><span><a href="Experiments/listen4.mp3">Listen</a></span></td><td><span><a href="Experiments/listening4.html">  Solve Questions  </a></span></td></tr>
+	
+       <tr><td>5.    Passage 5:</td><td><span><a href="Experiments/listen5.mp3">Listen</a></span></td><td><span><a href="Experiments/listening5.html">  Solve Questions  </a></span></td></tr>
+ 
+       <tr><td>6.     Passage 6:</td><td><span><a href="Experiments/listen6.mp3">Listen</a></span></td><td><span><a href="Experiments/listening6.html"> Solve Questions </a></span></td></tr>
+ 
+	 </table>
+		  </div>
+
+		  <div class="desc" id="reference">
+		  <p>Dhruba Hazarika.  Luck.  New Delhi: Penguin Books India, 2009.</p>
+ 
+    	<p>E. Elizabeth Vickland (Edited by Liza Das).  Daughter of Brahma & With Christ in Assam.  Guwahati: Anwesha, 2005.</p>
+
+		  </div>
+
+		  <div class="desc" id="procedure">
+		  <p>Steps to be followed :</p>
+ 
+    	<p>1. Put on your headphones or you can also use speakers.</p>
+
+ 
+    	<p>2. Choose an exercise and click on the Listen link.</p>
+
+ 
+    	<p>3. Listen to the audio carefully.</p>
+		
+	    <p>4. Answer the questions in the exercise.</p>
+		
+		  </div>
 </div>
 </div>
 <div id="footer">
