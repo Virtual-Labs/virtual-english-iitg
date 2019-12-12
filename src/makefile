@@ -1,6 +1,6 @@
 build-dir=../build
 
-all:all:patch-analytics help-dir 
+all:patch-analytics help-dir 
 
 patch-analytics:
 	git clone https://github.com/virtual-labs/vlabs-analytics.git
